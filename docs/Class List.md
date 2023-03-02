@@ -17,7 +17,7 @@ share: true
 | [[docs/Classes/TestClass.md\|TestClass]]                                  |
 | [[docs/Classes/Barbarian/Barbaric Bonds/Animal Aspect.md\|Animal Aspect]] |
 | [[docs/Classes/Barbarian/Barbaric Bonds/Tribal Bond.md\|Tribal Bond]]     |
-| [[docs/Classes/Barbarian/Barbaric Bonds/Mounted Fury.md\|Mounted Fury]]   |
 | [[docs/Classes/Barbarian/Barbaric Bonds/Death Bond.md\|Death Bond]]       |
+| [[docs/Classes/Barbarian/Barbaric Bonds/Mounted Fury.md\|Mounted Fury]]   |
 | [[docs/Classes/Barbarian/Barbarian.md\|Barbarian]]                        |
 
