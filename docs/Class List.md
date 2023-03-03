@@ -20,4 +20,5 @@ share: true
 | [[docs/Classes/Barbarian/Barbaric Bonds/Death Bond.md\|Death Bond]]       |
 | [[docs/Classes/Barbarian/Barbaric Bonds/Mounted Fury.md\|Mounted Fury]]   |
 | [[docs/Classes/Barbarian/Barbarian.md\|Barbarian]]                        |
+| [[docs/Classes/Barbarian/Savageries.md\|Savageries]]                      |
 
