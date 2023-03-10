@@ -1,18 +1,39 @@
 ---
-tags: ['Class', '<%+ tp.file.title %>']
+tags: ['Class', 'Class2TheSequel']
 PageType: 'Class'
 HitDie: 'd4'
 Type: 'Martial'
-Skills: 0
+Skills: 4
 BAB: 0
 BDE: 0
 share: true
 ---
 ```js
-<% await tp.file.move("/docs/Classes/" + tp.file.title + "/" + tp.file.title) %>
+
 ```
 ## Class Details
-Hit Die:  <%+ tp.frontmatter.HitDie %>
-Type: <%+ tp.frontmatter.Type %>
-Skill Ranks Per Level: <%+ tp.frontmatter["Skills"] %> + Int modifier
+Hit Die:  
+
+
+
+```
+
+
+
+Type: NaN
+Skill Ranks Per Level: NaN + Int modifier
+
+`=dataview.page("docs\Classes\Untitled\Class2TheSequel")[Type]`
+
+
+
+
+| Class           | HitDie | Type    | Skills |
+| --------------- | ------ | ------- | ------ |
+| TestClass       | d0     | None    | 0      |
+| Barbarian       | d12    | Martial | 2      |
+| TestClass2      | d4     | Martial | 0      |
+| Class           | d4     | Martial | 0      |
+| Bladebinder     | d12    | Martial | 4      |
+| Class2TheSequel | d4     | Martial | 4      |
 
